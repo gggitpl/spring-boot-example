@@ -1,0 +1,1 @@
+大文件分片上传请参考github开源项目[resumable](https://github.com/23/resumable.js) samples部分
