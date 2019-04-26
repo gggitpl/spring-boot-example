@@ -1,0 +1,1 @@
+insert into t_user (name, password) values ('zhangshan', 'abc123');
